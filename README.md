@@ -32,9 +32,9 @@ Il focus tecnico del progetto era misurare il **costo delle operazioni con shuff
 
 La Random Forest è la scelta migliore in un contesto distribuito: a parità di qualità, i suoi alberi si addestrano in parallelo, mentre il boosting è sequenziale.
 
-![Task Stream della dashboard Dask](img/dask_task_stream.png)
+![Task Stream della dashboard Dask](dask_task_stream.png)
 
-![Classification report dei modelli](img/risultati_modelli.png)
+![Classification report dei modelli](risultati_modelli.png)
 
 ## File
 
